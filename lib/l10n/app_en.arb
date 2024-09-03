@@ -1,0 +1,181 @@
+{
+  "login": "Login",
+  "@login": {
+    "description": "Value for login button"
+  },
+
+  "email" : "Email",
+  "@email" : {
+    "description" : "User's email to register"
+  },
+
+  "canLoginToAccountAfterEmailConfirmTitle" : "Confirm Email",
+  "@canLoginToAccountAfterEmailConfirmTitle" : {
+    "description" : "Title for message about email confirmation"
+  },
+
+  "canLoginToAccountAfterEmailConfirmMessage" : "You will be able to log into your account only after confirmation of your email.",
+  "@canLoginToAccountAfterEmailConfirmMessage" : {
+    "description" : "Message about email confirmation"
+  },
+
+  "emailConfirmNeed" : "You cannot log into your account. Confirm your email.",
+  "@emailConfirmNeed" : {
+    "description" : "User's cannot enter to account until email was not confirmed"
+  },
+
+  "wrongEmailFormat" : "* Email is not in the correct format",
+  "@wrongEmailFormat" : {
+    "description" : "Email has wrong format. Show message about this to user"
+  },
+
+  "checkYourEmailTitle" : "Check your email",
+  "@checkYourEmailTitle" : {
+    "description" : "Title for alert restore password"
+  },
+
+  "emailWithInstructions" : "Email with instructions has been sent to your email",
+  "@emailWithInstructions" : {
+    "description" : "Message in restore alert"
+  },
+
+  "username": "Username",
+  "@username": {
+    "description": "User's name to login"
+  },
+
+  "wrongUsernameFormat" : "* Username can only contain letters and numbers, and must be between 6 and 16 characters",
+  "@wrongUsernameFormat" : {
+    "description" : "Username has wrong format. Show message about this to user"
+  },
+
+  "wrongUsernameFormatAlert" : "* Not valid username",
+  "@wrongUsernameFormatAlert" : {
+    "description" : "Username has wrong format. Show message about this to user in restore password alert"
+  },
+
+  "password": "Password",
+  "@password": {
+    "description": "User's password to login"
+  },
+
+  "wrongPasswordFormat" : "Password must be between 6 and 16 characters",
+  "@wrongPasswordFormat" : {
+    "description" : "Password has wrong format. Show message about this to user"
+  },
+
+  "repeatPassword" : "Repeat password",
+  "@repeatPassword" : {
+    "description" : "Request to repeat password again in registration form"
+  },
+
+  "wrongRepeatPassword" : "Specified passwords are not equal",
+  "@wrongRepeatPassword" : {
+    "description" : "Passwords are not equal. Shw message about this to user"
+  },
+
+  "restorePasswordAlertTitle" : "Restoring password",
+  "@restorePasswordAlertTitle" : {
+    "description" : "Title for forgot password alert"
+  },
+
+  "loginRequest": "Enter your credentials to login",
+  "@loginRequest": {
+    "description": "Request user to enter credentials(username and password) to login in account"
+  },
+
+  "language": "English",
+  "@language": {
+    "description" : "Just name of the language"
+  },
+
+  "changeLanguage": "Change language",
+  "@changeLanguage": {
+    "description": "Hint in DropDownButton to change language"
+  },
+
+  "needRestartAlertTitle": "Warning",
+  "@needRestartAlertTitle": {
+    "description": "Title for restart-alert"
+  },
+
+  "needRestartAlertMessage": "Changes will be applied only after restart the application.",
+  "@needRestartAlertMessage": {
+    "description": "Message for restart-alert"
+  },
+
+  "needRestartAlertCloseButton": "Got it!",
+  "@needRestartAlertCloseButton": {
+    "description": "Message on close-button for restart-alert"
+  },
+
+  "forgotPasswordButton": "Forgot Password?",
+  "@forgotPasswordButton": {
+    "description": "Text for forgot-password button"
+  },
+
+  "restorePasswordButton" :  "Restore",
+  "@restorePasswordButton" : {
+    "description" : "Text for button in forgot password alert"
+  },
+
+  "dontHaveAnAccount": "Don't have an account?",
+  "@dontHaveAnAccount": {
+    "description" : "Text for dont-have-an-account button"
+  },
+
+  "signUpButton" : "Sign Up",
+  "@signUpButton" : {
+    "description" : "Button for sign up new user"
+  },
+
+  "loginFailed" : "Login Failed",
+  "@loginFailed" : {
+    "description" : "Title in alert because login or password from user's account was wrong"
+  },
+
+  "invalidLoginOrPasswordMessage" : "Invalid login or password",
+  "@invalidLoginOrPasswordMessage" : {
+    "description" : "Message in alert because login or password from user's account was wrong"
+  },
+
+  "loginOrPasswordIsMissing" : "Login or password is missing",
+  "@loginOrPasswordIsMissing" : {
+    "description" : "Message in alert because login or password from user's account was not specified"
+  },
+
+  "gotItButton" : "Got it!",
+  "@gotItButton" : {
+    "description" : "Text for close button in alert"
+  },
+
+  "rememberMe" : "Remember me",
+  "@rememberMe" : {
+    "description" : "Stay logged in in next session"
+  },
+
+  "dataLoading" : "Data loading... Please wait",
+  "@dataLoading" : {
+    "description" : "Message about loading data after login"
+  },
+
+  "chooseTwoTeams" : "Choose two teams to analyze winrate",
+  "@chooseTwoTeams" : {
+    "description" : "Message at home page - request to choose two teams"
+  },
+
+  "startAnalyzeButtonText" : "Start Analyze",
+  "@startAnalyzeButtonText" : {
+    "description" : "Text in button for analyze teams"
+  },
+
+  "teamNameTextFieldHint" : "Team name",
+  "@teamNameTextFieldHint" : {
+    "description" : "Hint text in TextFormField in team choose"
+  },
+
+  "unknownTeamValidatorText" : "Unknown team",
+  "@unknownTeamValidatorText" : {
+    "description" : "Text if team unknown in team choose"
+  }
+}
